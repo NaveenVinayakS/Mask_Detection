@@ -3,9 +3,9 @@
  
  HERE ARE THE VISUALISATIONS:
  
- ![alt text](https://github.com/spursbyte/Face-Mask-Detection/blob/twst2/incep_v3_mask_model/images/img1.png)
+ ![alt text](https://github.com/NaveenVinayakS/Mask_Detection/blob/main/incep_v3_mask_model/images/img1.png)
  
-  ![alt text](https://github.com/spursbyte/Face-Mask-Detection/blob/twst2/incep_v3_mask_model/images/img2.png)
+  ![alt text](https://github.com/NaveenVinayakS/Mask_Detection/blob/main/incep_v3_mask_model/images/img2.png)
 
  
  
