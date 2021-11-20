@@ -91,7 +91,7 @@ $ python detect_mask_video.py
 ```
 ## :key: Results
 
-#### Our model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
+#### Model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
 
 ####          
 ![](https://github.com/NaveenVinayakS/Mask_Detection/blob/main/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
